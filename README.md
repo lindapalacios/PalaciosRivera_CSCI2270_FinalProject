@@ -8,7 +8,6 @@ Customer Options:
 1. Categories/Add to cart
 2. View/Purchase Cart
 3. Delete item from cart
-------------------------------
 Store Options:
 4. Add inventory
 5. Delete Items in inventory
