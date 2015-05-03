@@ -47,6 +47,6 @@ Lecture Notes and Assignment answers
   	
 Open issues/bugs
 Memory leak
-Can upload files to github
+
 
 
