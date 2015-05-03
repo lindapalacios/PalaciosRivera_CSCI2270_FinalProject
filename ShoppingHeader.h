@@ -41,9 +41,10 @@ public:
 	void deleteProduct(std::string name);
 	bool findProduct(std::string name);
 	void Quantity(std::string in_name, int new_quantity);
-	void StoreTable::ShoppingCheckout(std::string item);
+	void ShoppingCheckout(std::string item);
+	int Index(std::string input_string, int size);
 private:
-	int StoreTable::Index(std::string input_string, int size);
+	//int StoreTable::Index(std::string input_string, int size);
 	int tableSize = 5;
 	std::vector<Product> *productTable[5];
 
